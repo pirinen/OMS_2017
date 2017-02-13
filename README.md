@@ -10,7 +10,7 @@ a) Laadi alustava luettelo kehitettävän hinnoittelujärjestelmän käyttötapa
 
 b) Laadi luettelo hinnoittelujärjestelmän toimijoista (actoreista). Huomaa, että myös mallinnettavan järjestelmän kanssa vuorovaikutuksessa olevan muut, ulkoiset järjestelmät ovat käyttötapausmallin kannalta actoreita.
 
-c) Piirrä käyttötapauskaavio
+//TEHTY c) Piirrä käyttötapauskaavio
 
 3. Valitse käyttötapauslistalta jokin käyttötapaus, jonka arvelet olevan asiakkaan kannalta kaikkein keskeisin (ja myyvin) toiminto.
 
