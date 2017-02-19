@@ -1,7 +1,7 @@
 # OMS_2017
 Ohjelmistojen määrittely ja suunnittelu, LTT2007
 
-# ToDo! 13.2, klo 13.00
+# ToDo!
 1. Täydennä hinnoittalujärjestelmän vaatimusmäärittelyä sanaston osalta. Laadi sanaston käsitteitä koskeva UML-luokkakaavio, ja hyödynnä siinä UML-luokkakaavion liitostekniikoita kooste (aggregation), periyttäminen (inheritance, generalization), tai nimettyä standardiassosiaatiota.
 
 3. Valitse käyttötapauslistalta jokin käyttötapaus, jonka arvelet olevan asiakkaan kannalta kaikkein keskeisin (ja myyvin) toiminto.
