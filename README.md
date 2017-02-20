@@ -15,7 +15,7 @@ Täsmennä valitsemasi käyttötapaus määrittelemällä siitä seuraavat asiat
 - Jälkiehto (postcondition)
 - Muu tieto, huomautukset, kuva käyttöliittymästä jne.
 
-4. Laadi analyysivaiheen alustava luokkamalli, joka kuvaa järjestelmän käsitteet ja niiden väliset suhteet.
+<s>4. Laadi analyysivaiheen alustava luokkamalli, joka kuvaa järjestelmän käsitteet ja niiden väliset suhteet.</s>
 
 <s>2. Perehdy UML-kielen käyttötapausmalliin opintojakson kirjallisuuden perusteella. Voit toki hyödyntää muitakin lähteitä. </s>
 
