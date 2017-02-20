@@ -15,6 +15,14 @@ Täsmennä valitsemasi käyttötapaus määrittelemällä siitä seuraavat asiat
 - Jälkiehto (postcondition)
 - Muu tieto, huomautukset, kuva käyttöliittymästä jne.
 
+1. Perehdy UML-komponenttikaavion notaatioon.
+
+Kuvaa hinnoittelujärjestelmän rakenne komponenttikaaviolla. Pohdi samalla, mitä rajapintoja komponenttien välille tulisi tapauksessa, jossa komponenttien välillä on langatonta tai langallista viestintää.
+
+Huom. Dynamics NAV ERP -järjestelmän palvelimen voi tässä koodata yhtenä komponenttina, ja käytettävän rajapinta nimi voi olla ItemIF, tai StorageIF.
+
+2. Valitse laatimistasi käyttötapauksista kaksi keskeisintä tarkasteluun. Laadi sekvenssikaavio, josta ilmenee komponenttien välinen viestintä käyttötapauksen kohdalla.
+
 <s>4. Laadi analyysivaiheen alustava luokkamalli, joka kuvaa järjestelmän käsitteet ja niiden väliset suhteet.</s>
 
 <s>2. Perehdy UML-kielen käyttötapausmalliin opintojakson kirjallisuuden perusteella. Voit toki hyödyntää muitakin lähteitä. </s>
