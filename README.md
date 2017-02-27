@@ -2,7 +2,6 @@
 Ohjelmistojen määrittely ja suunnittelu, LTT2007
 
 # ToDo!
-1. Täydennä hinnoittalujärjestelmän vaatimusmäärittelyä sanaston osalta. Laadi sanaston käsitteitä koskeva UML-luokkakaavio, ja hyödynnä siinä UML-luokkakaavion liitostekniikoita kooste (aggregation), periyttäminen (inheritance, generalization), tai nimettyä standardiassosiaatiota.
 
 3. Valitse käyttötapauslistalta jokin käyttötapaus, jonka arvelet olevan asiakkaan kannalta kaikkein keskeisin (ja myyvin) toiminto.
 Täsmennä valitsemasi käyttötapaus määrittelemällä siitä seuraavat asiat:
@@ -20,6 +19,8 @@ Täsmennä valitsemasi käyttötapaus määrittelemällä siitä seuraavat asiat
 Kuvaa hinnoittelujärjestelmän rakenne komponenttikaaviolla. Pohdi samalla, mitä rajapintoja komponenttien välille tulisi tapauksessa, jossa komponenttien välillä on langatonta tai langallista viestintää.
 
 Huom. Dynamics NAV ERP -järjestelmän palvelimen voi tässä koodata yhtenä komponenttina, ja käytettävän rajapinta nimi voi olla ItemIF, tai StorageIF.
+
+<s>1. Täydennä hinnoittalujärjestelmän vaatimusmäärittelyä sanaston osalta. Laadi sanaston käsitteitä koskeva UML-luokkakaavio, ja hyödynnä siinä UML-luokkakaavion liitostekniikoita kooste (aggregation), periyttäminen (inheritance, generalization), tai nimettyä standardiassosiaatiota.</s>
 
 <s>2. Valitse laatimistasi käyttötapauksista kaksi keskeisintä tarkasteluun. Laadi sekvenssikaavio, josta ilmenee komponenttien välinen viestintä käyttötapauksen kohdalla.</s>
 
