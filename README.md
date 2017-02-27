@@ -21,7 +21,7 @@ Kuvaa hinnoittelujärjestelmän rakenne komponenttikaaviolla. Pohdi samalla, mit
 
 Huom. Dynamics NAV ERP -järjestelmän palvelimen voi tässä koodata yhtenä komponenttina, ja käytettävän rajapinta nimi voi olla ItemIF, tai StorageIF.
 
-2. Valitse laatimistasi käyttötapauksista kaksi keskeisintä tarkasteluun. Laadi sekvenssikaavio, josta ilmenee komponenttien välinen viestintä käyttötapauksen kohdalla.
+<s>2. Valitse laatimistasi käyttötapauksista kaksi keskeisintä tarkasteluun. Laadi sekvenssikaavio, josta ilmenee komponenttien välinen viestintä käyttötapauksen kohdalla.</s>
 
 <s>4. Laadi analyysivaiheen alustava luokkamalli, joka kuvaa järjestelmän käsitteet ja niiden väliset suhteet.</s>
 
