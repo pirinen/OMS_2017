@@ -3,34 +3,43 @@ Ohjelmistojen määrittely ja suunnittelu, LTT2007
 
 # ToDo!
 
-3. Valitse käyttötapauslistalta jokin käyttötapaus, jonka arvelet olevan asiakkaan kannalta kaikkein keskeisin (ja myyvin) toiminto.
-Täsmennä valitsemasi käyttötapaus määrittelemällä siitä seuraavat asiat:
+Lisätkää tai täydentäkää kohtia 1-2!
 
-- Nimi
-- Toimijat (actors)
-- Esiehto (precondition)
-- Tapahtumien normaali kulku
-- Tapahtumien vaihtoehtoinen kulku
-- Jälkiehto (postcondition)
-- Muu tieto, huomautukset, kuva käyttöliittymästä jne.
 
-1. Perehdy UML-komponenttikaavion notaatioon.
+Tekninen määrittely
 
-Kuvaa hinnoittelujärjestelmän rakenne komponenttikaaviolla. Pohdi samalla, mitä rajapintoja komponenttien välille tulisi tapauksessa, jossa komponenttien välillä on langatonta tai langallista viestintää.
+Järjestelmän osien/komponenttien tekninen rakenne.
 
-Huom. Dynamics NAV ERP -järjestelmän palvelimen voi tässä koodata yhtenä komponenttina, ja käytettävän rajapinta nimi voi olla ItemIF, tai StorageIF.
+    Johdanto
+        Tarkoitus
+        Dokumentin kattavuus
+        Määritelmät, termit, lyhenteet
+        Viittaukset muihin dokumentteihin, standardeihin, käsikirjoihin jne...
+        Yleiskatsaus dokumenttiin
+    Järjestelmän yleiskuvaus
+        Sovellusalueen kuvaus, järjestelmän osuus siitä, laitteisto ja ohjelmistoympäristön kuvaus, toteutuksen keskeiset                       reunaehdot ja järjestelmän liittyminen ympäristöönsä
+    Arkkitehtuurin kuvaus
+        Ratkaisuperiaatteet
+        Tietokanta-arkkitehtuuri
+        Ohjelmistoarkkitehtuuri, moduulit ja prosessit
+        Uudelleenkäytettävät komponentit
+    Moduuli (ja prosessi) kuvaukset
+        Kustakin moduulista (ja prosessista) esitetään:
+            yleiskuvaus,
+            attribuutit (ylläpidettävät tilatiedot),
+            operaatiot (rajapinnan määrittely),
+            poikkeus- ja virhetilanteiden käsittely (myös odottamattomien) sekä
+            ohjeita moduulisuunnittelua ja toteutusta varten (viitaukset käytettäviin algoritmeihin, uudelleenkäytettävyys, ne.)
 
-<s>1. Täydennä hinnoittalujärjestelmän vaatimusmäärittelyä sanaston osalta. Laadi sanaston käsitteitä koskeva UML-luokkakaavio, ja hyödynnä siinä UML-luokkakaavion liitostekniikoita kooste (aggregation), periyttäminen (inheritance, generalization), tai nimettyä standardiassosiaatiota.</s>
+Muita mahdollisia kohtia:
 
-<s>2. Valitse laatimistasi käyttötapauksista kaksi keskeisintä tarkasteluun. Laadi sekvenssikaavio, josta ilmenee komponenttien välinen viestintä käyttötapauksen kohdalla.</s>
-
-<s>4. Laadi analyysivaiheen alustava luokkamalli, joka kuvaa järjestelmän käsitteet ja niiden väliset suhteet.</s>
-
-<s>2. Perehdy UML-kielen käyttötapausmalliin opintojakson kirjallisuuden perusteella. Voit toki hyödyntää muitakin lähteitä. </s>
-
-<s>a) Laadi alustava luettelo kehitettävän hinnoittelujärjestelmän käyttötapauksista.</s>
-
-<s>b) Laadi luettelo hinnoittelujärjestelmän toimijoista (actoreista). Huomaa, että myös mallinnettavan järjestelmän kanssa vuorovaikutuksessa olevan muut, ulkoiset järjestelmät ovat käyttötapausmallin kannalta actoreita.</s>
-
-<s>c) Piirrä käyttötapauskaavio</s>
-
+    Ylläpito-ohjeet
+    Siirrettävyys
+    Virhetilanteiden käsittely
+    Luotettavuus
+    Erityiset tekniset ratkaisut
+    Ratkaisuvaihtoehtoja, miksi ne hylättiin
+    Käyttöliittymä, jos ei tarkasti (toiminnallisessa) määrittelyssä
+    Ratkaisun rajoitteet
+    Testattavuus
+    Jäljitettävyys
